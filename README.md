@@ -17,5 +17,5 @@
 </ul>
 
 <!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=red&style=for-the-badge" alt="kurou-kun" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=red&style=for-the-badge" alt="profile view badge" />
+<img src="https://github-profile-trophy.vercel.app/?username=kurou-kun" alt="profile trophy badge"/>
