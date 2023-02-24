@@ -15,8 +15,8 @@
 <ul>
   <a href="https://github.com/Kurou-kun/Ashuramaru-Bundle" target="blank"><li>Ashuramaru Bundle</li></a>
   <a href="https://github.com/Kurou-kun/ashuramaru-theme" target="blank"><li>Ashuramaru Theme</li></a>
+  <a href="https://github.com/Kurou-kun/ashuramaru-metro-skin" target="blank"><li>Ashuramaru Metro Steam</li></a>
   <a href="https://github.com/Kurou-kun/discord-addons" target="blank"><li>Discord Addons</li></a>
-  <li>Ashuramaru Metro Steam</li>
   <li>[PRODUCTION NAME] - [Yami o Tadoru Mono]</li>
 </ul>
 
