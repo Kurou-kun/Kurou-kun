@@ -1,5 +1,5 @@
 <!-- Avatar -->
-<img align="center" src="https://res.kinmokusei.dev/img/avatars/Kurou_default.png" alt="kurou-kun">
+<img align="center" style="width=: 50px; height: 50px;" src="https://res.kinmokusei.dev/img/avatars/Kurou_default.png" alt="kurou-kun">
 
 <!-- Title -->
 <h1 align="center">Kurou</h1>
