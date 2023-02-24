@@ -21,4 +21,4 @@
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=red&style=for-the-badge" alt="profile view badge" />
-<img src="https://img.shields.io/github/repo-count/kurou-kun/ashuramaru-bundle" alt="repository bade"/>
+<img src="https://img.shields.io/github/repo-count/kurou-kun" alt="repository bade"/>
