@@ -1,5 +1,5 @@
 <!-- Avatar -->
-<img style="width=: 10px; height: 100px; margin: auto;" src="https://res.kinmokusei.dev/img/avatars/Kurou_default.png" alt="kurou-kun">
+<img style="width: 100px; height: 100px;" src="https://res.kinmokusei.dev/img/avatars/Kurou_default.png" alt="kurou-kun">
 
 <!-- Title -->
 <h1 align="center">Kurou</h1>
@@ -9,7 +9,7 @@
 
 <!-- Projects -->
 <p align="left">My Current Projects</p>
-<ul style="list-style-type: circle; background-color: red;">
+<ul>
   <li>Ashuramaru Bundle</li>
   <li>Ashuramaru Theme</li>
   <li>Ashuramaru Metro Steam</li>
