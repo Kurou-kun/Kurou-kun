@@ -8,7 +8,7 @@
 <h4 align="center">I am an IT developer with a passion for technology. I have knowledge of software development and programming languages. I strive to stay current with the latest industry advancements and constantly seek to improve my skills.</h4>
 
 <!-- Trophy -->
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurou-kun&theme=onedark&row=1" alt="profile trophy"/></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurou-kun&theme=onestar&row=1" alt="profile trophy"/></a></p>
 
 <!-- Projects -->
 <p align="left">My Current Projects</p>
