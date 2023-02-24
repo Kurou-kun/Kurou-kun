@@ -21,3 +21,4 @@
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=red&style=for-the-badge" alt="profile view badge" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itmesarah&show_icons=true&theme=dark&locale=en" alt="itmesarah" /></p>
