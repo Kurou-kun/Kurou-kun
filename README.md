@@ -16,4 +16,4 @@
   <li>[PRODUCTION NAME] - [Yami o Tadoru Mono]</li>
 </ul>
 
-<img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=0e75b6&style=flat" alt="kurou-kun" />
+<img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=red=for-the-badge" alt="kurou-kun" />
