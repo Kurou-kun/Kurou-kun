@@ -1,16 +1,14 @@
-### Hi there 👋
+<!-- Title -->
+<h1 align="center">Kurou</h1>
 
-<!--
-**Kurou-kun/Kurou-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Description -->
+<h4 align="center">I am an IT developer with a passion for technology. I have knowledge of software development and programming languages. I strive to stay current with the latest industry advancements and constantly seek to improve my skills.</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Projects -->
+<p align="left">My Current Projects</p>
+<ul style="list-style-type: circle;">
+  <li>Ashuramaru Bundle</li>
+  <li>Ashuramaru Theme</li>
+  <li>Ashuramaru Metro Steam</li>
+  <li>[PRODUCTION NAME] - [Yami o Tadoru Mono]</li>
+</ul>
