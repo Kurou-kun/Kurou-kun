@@ -13,7 +13,7 @@
 <!-- Projects -->
 <p align="left">My Current Projects</p>
 <ul>
-  <a style="color: red;" href="https://github.com/Kurou-kun/Ashuramaru-Bundle" target="blank"><li>Ashuramaru Bundle</li></a>
+  <a href="https://github.com/Kurou-kun/Ashuramaru-Bundle" target="blank"><li>Ashuramaru Bundle</li></a>
   <a href="https://github.com/Kurou-kun/ashuramaru-theme" target="blank"><li>Ashuramaru Theme</li></a>
   <a href="https://github.com/Kurou-kun/discord-addons" target="blank"><li>Discord Addons</li></a>
   <li>Ashuramaru Metro Steam</li>
