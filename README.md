@@ -7,6 +7,9 @@
 <!-- Description -->
 <h4 align="center">I am an IT developer with a passion for technology. I have knowledge of software development and programming languages. I strive to stay current with the latest industry advancements and constantly seek to improve my skills.</h4>
 
+<!-- Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurou-kun&theme=onedark" alt="profile trophy"/></a>
+
 <!-- Projects -->
 <p align="left">My Current Projects</p>
 <ul>
@@ -18,4 +21,3 @@
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=kurou-kun&label=Profile%20views&color=red&style=for-the-badge" alt="profile view badge" />
-<img src="https://github-profile-trophy.vercel.app/?username=kurou-kun" alt="profile trophy badge"/>
